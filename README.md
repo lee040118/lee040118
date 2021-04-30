@@ -3,6 +3,8 @@
 <!--
 **lee040118/lee040118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+* Jeounghui Nah (a.k.a. jhnah917, JusticeHui)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🙋‍♂️ Profile
+* Jeonbuk National University, School of IT information engineering
+
+## 💻 Online Judge
+* BOJ: [lee040118](http://icpc.me/lee040118)
+
+## 🌱 I’m currently learning...
+* Natural Language processing
+* 

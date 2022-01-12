@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 * BOJ: [lee040118](http://icpc.me/lee040118)
 
 ## 🌱 I’m currently learning...
+* Data engineering
 * Natural Language processing
 * Cloud Computing
 * Algorithm
